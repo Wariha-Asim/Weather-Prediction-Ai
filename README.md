@@ -2,11 +2,11 @@
 # Overview
 The Weather Prediction AI project uses Linear Regression to predict daily average temperatures based on historical weather data. The system is designed for sectors like agriculture, transportation, and disaster management, providing accurate, efficient, and accessible weather forecasting.
 # Features
-# Accurate Temperature Predictions: Forecasts daily average temperatures for the next 7 days.
-# Customizable Input: Users can input a city name and an optional date for tailored temperature predictions.
-# Graphical Visualization: Visualizes historical and predicted temperature trends using Matplotlib.
-# Error Handling: Provides informative error messages for invalid inputs or unavailable data.
-# Linear Regression Explanation: Includes a button for users to learn about how Linear Regression works with a simple example.
+Accurate Temperature Predictions: Forecasts daily average temperatures for the next 7 days.
+Customizable Input: Users can input a city name and an optional date for tailored temperature predictions.
+Graphical Visualization: Visualizes historical and predicted temperature trends using Matplotlib.
+Error Handling: Provides informative error messages for invalid inputs or unavailable data.
+Linear Regression Explanation: Includes a button for users to learn about how Linear Regression works with a simple example.
 # Installation
 Clone the repository: git clone https://github.com/Wariha-Asim/Weather-Prediction-Ai.git
 Install the required dependencies: pip install -r requirements.txt
